@@ -38,7 +38,7 @@ The mod can be downloaded from either of the following platforms:
 
 | Status | Version | Release |
 | :----- | :------ | :------- |
-| 🟢 Stable | 1.8.0 | [Download](https://github.com/ShyVortex/tlou2-reduce-stuttering/releases/tag/v1.8.0) |
+| 🚧 Experimental | 1.9.0b3 | [Download](https://github.com/ShyVortex/tlou2-reduce-stuttering/releases/tag/v1.9.0b3) |
 
 ---
 
