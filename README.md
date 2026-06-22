@@ -53,3 +53,7 @@ The mod can be downloaded from either of the following platforms:
 
 If you like this mod and wish to support my work, you may consider buying me a coffee on [**Ko-fi**](https://ko-fi.com/shyvortex).
 Thank you!
+
+## License
+- This project is distributed under the [CC-BY-NC-ND 4.0 License](https://github.com/ShyVortex/tlou2-reduce-stuttering/blob/main/LICENSE.md).
+- © Copyright of [@ShyVortex](https://github.com/ShyVortex), 2026.
